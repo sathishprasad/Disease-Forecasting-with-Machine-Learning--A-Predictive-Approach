@@ -2,6 +2,11 @@
 
 Welcome to the Disease Forecasting project repository. This project aims to utilize Machine Learning (ML) to predict diseases based on a set of symptoms. It serves as a predictive tool that could be used to aid preliminary medical diagnostics.
 
+## Sample output
+![Sample output](/Sampleoutput.png)
+
+
+
 ## Overview
 
 Disease forecasting is a crucial aspect of preventative medicine and public health planning. This project leverages ML algorithms to predict possible diseases by analyzing patterns and correlations between a wide array of symptoms and diagnosed conditions. The goal is to create a model that can support healthcare professionals by providing an additional tool for disease diagnosis.
